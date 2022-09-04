@@ -1,0 +1,7 @@
+1. docker build . 
+
+2. docker-compose build
+
+3. docker-compose run
+
+4. docker-compose run app sh -c "django-admin.py startproject core ."
